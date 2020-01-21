@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My local poetry install file.  If needed to recreate, use: 
+# wget https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py 
+get-poetry.py
