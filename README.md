@@ -76,3 +76,11 @@ poetry env list --full-path
 
 C:\Users\<username>\AppData\Local\pypoetry\Cache\virtualenvs\couplet-oQtpg30g-py3.7 (Activated)
 ```
+
+## Exporting a requirements.txt file
+
+For builds requiring a requirements.txt file, you can do:
+
+```
+poetry export -f requirements.txt -o requirements.txt
+```
