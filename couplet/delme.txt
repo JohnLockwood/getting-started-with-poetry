@@ -1,0 +1,45 @@
+C:\Program Files\ConEmu\ConEmu\Scripts
+C:\Program Files\ConEmu
+C:\Program Files\ConEmu\ConEmu
+C:\ProgramData\DockerDesktop\version-bin
+C:\Program Files\Docker\Docker\Resources\bin
+C:\tools\ruby26\bin
+C:\Python37\Scripts\
+C:\Python37\
+C:\WINDOWS\system32
+C:\WINDOWS
+C:\WINDOWS\System32\Wbem
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+C:\WINDOWS\System32\OpenSSH\
+C:\ProgramData\chocolatey\bin
+C:\Program Files\Microsoft VS Code\bin
+C:\Program Files\Git\cmd
+C:\Go\bin
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+C:\Program Files\OpenJDK\jdk-12.0.1\bin
+C:\Program Files\Java\jdk1.8.0_211\bin
+C:\apps\batch
+C:\tools\groovy-2.5.7\bin
+C:\Program Files\nodejs\
+C:\Program Files\Amazon\AWSCLI\bin\
+C:\apps\TortoiseGit\bin
+C:\apps\Amazon\AwsSamCli\bin\
+C:\Program Files\Intel\WiFi\bin\
+C:\Program Files\Common Files\Intel\WirelessCommon\
+C:\Users\CodeS\.poetry\bin
+C:\Users\CodeS\.cargo\bin
+C:\Users\CodeS\AppData\Local\Microsoft\WindowsApps
+C:\Users\CodeS\go\bin
+C:\apps\Idea\bin
+C:\Users\CodeS\AppData\Roaming\npm
+C:\apps\spring-2.1.6.RELEASE\bin
+C:\Users\CodeS\.pyenv\pyenv-win\bin
+"C:\Users\CodeS\.pyenv\pyenv-win\shims
+"
+C:\apps\winmerge
+C:\apps\DataGrip\bin
+C:\Users\CodeS\AppData\Local\Pandoc\
+C:\tools\dart-sdk\bin
+C:\Users\CodeS\AppData\Roaming\Pub\Cache\bin
+C:\tools\flutter\flutter\bin 
