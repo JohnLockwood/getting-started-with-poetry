@@ -6,6 +6,7 @@ authors = ["John Lockwood <JohnLockwood2999@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
+request = "^2019.4.13"
 
 
 [tool.poetry.dev-dependencies]
