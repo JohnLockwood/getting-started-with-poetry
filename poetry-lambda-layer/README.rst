@@ -8,3 +8,4 @@ This project shows how to build and publish a Lambda Layer of non-trivial comple
     cd poetry-lambda-layer
     poetry add requests
 
+Our goal will be to expose a function that returns the code for this README.
